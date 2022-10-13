@@ -2,3 +2,4 @@
 
 ## Colaboradores
 - Ramide Dantas
+- Pedro Vila Nova
