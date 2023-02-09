@@ -3,3 +3,4 @@
 ## Colaboradores
 - Ramide Dantas
 - Pedro Vila Nova
+- Camille Gomes
